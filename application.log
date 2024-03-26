@@ -1,2 +1,4 @@
 2024-03-27T00:49:21.199+07:00  WARN 15772 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Belajar Spring
 2024-03-27T00:49:21.213+07:00 ERROR 15772 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Belajar Programmer Zaman now
+2024-03-27T00:53:22.103+07:00  WARN 7412 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Belajar Spring
+2024-03-27T00:53:22.104+07:00 ERROR 7412 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Belajar Programmer Zaman now
