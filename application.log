@@ -1,0 +1,6 @@
+2024-03-27T00:39:26.729+07:00  INFO 20596 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Starting LoggingTest using Java 21.0.1 with PID 20596 (started by hanif in C:\Users\hanif\development\java\springboot\belajar-spring-logging)
+2024-03-27T00:39:26.731+07:00  INFO 20596 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : No active profile set, falling back to 1 default profile: "default"
+2024-03-27T00:39:27.240+07:00  INFO 20596 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Started LoggingTest in 0.799 seconds (process running for 2.09)
+2024-03-27T00:39:28.133+07:00  INFO 20596 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Belajar Java
+2024-03-27T00:39:28.133+07:00  INFO 20596 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Belajar Spring
+2024-03-27T00:39:28.133+07:00  INFO 20596 --- [belajar-spring-logging] [main] p.belajarspringlogging.LoggingTest       : Belajar Programmer Zaman now

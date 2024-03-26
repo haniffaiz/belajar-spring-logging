@@ -13,7 +13,7 @@ public class LoggingTest {
     @Test
     void testLog() {
         log.info("Belajar Java");
-        log.info("Belajar Spring");
-        log.info("Belajar Programmer Zaman now");
+        log.warn("Belajar Spring");
+        log.error("Belajar Programmer Zaman now");
     }
 }
